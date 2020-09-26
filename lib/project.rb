@@ -9,9 +9,9 @@ class Project
     @backers = []
   end
   
-def add_backer
-  
-end
+  def add_backer
+    
+  end
   
   
   
